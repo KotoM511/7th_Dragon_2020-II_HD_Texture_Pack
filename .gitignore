@@ -1,3 +1,5 @@
 
 *.psd
 /chara not fin
+.gitignore
+.gitattributes
