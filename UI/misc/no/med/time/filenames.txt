@@ -1,0 +1,10 @@
+09829fb0a6837b9f00000000 = /UI/misc/no/med/time/0.png
+0982a150cda21f4b00000000 = /UI/misc/no/med/time/1.png
+0982a2f05c0ecaf000000000 = /UI/misc/no/med/time/2.png
+0982a4908a0be0c700000000 = /UI/misc/no/med/time/3.png
+0982a63059476c5600000000 = /UI/misc/no/med/time/4.png
+0982a7d03504649100000000 = /UI/misc/no/med/time/5.png
+0982a9706fc10b4600000000 = /UI/misc/no/med/time/6.png
+0982ab105ca9b08900000000 = /UI/misc/no/med/time/7.png
+0982acb029f873a900000000 = /UI/misc/no/med/time/8.png
+0982ae50ed4b68f500000000 = /UI/misc/no/med/time/9.png

@@ -1,0 +1,11 @@
+0000000085bffa363ca923d1 = /UI/misc/no/med/0.png
+000000002c268056cc67459d = /UI/misc/no/med/1.png
+0000000088849d524f82ebb2 = /UI/misc/no/med/2.png
+000000004d3ff1c8acf9855d = /UI/misc/no/med/3.png
+00000000db9e6c4429935f12 = /UI/misc/no/med/4.png
+0000000060c42730085f93a9 = /UI/misc/no/med/5.png
+0000000088849d5229282811 = /UI/misc/no/med/6.png
+0000000031be748d5694dc26 = /UI/misc/no/med/7.png
+000000002490841735d0dc53 = /UI/misc/no/med/8.png
+0000000085bffa365e7498fa = /UI/misc/no/med/9.png
+000000001138bf96224fe59d = /UI/misc/no/med/comma.png

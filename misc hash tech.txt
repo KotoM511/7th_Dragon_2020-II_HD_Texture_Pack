@@ -1,0 +1,10 @@
+Hashrange
+0xXXXXXXXX,YYY,ZZZ = AAA, BBB
+0x = No reason to change this.
+XXXX... = The first 8 digits of dumped texture's filename (The address)
+YYY = The Width of the dumped texture (With garbage data)
+ZZZ = The Height of the dumped texture (Again, with garbage data)
+AAA = The real width of the dumped texture (without the garbage, horizontally the textures tend to repeat rather than generate garbage)
+BBB = The height of the texture (without the garbage)
+
+After that the texture will be dumped again with the width specified in A and the height in B, and the correct hash.

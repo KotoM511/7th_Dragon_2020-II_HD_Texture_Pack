@@ -1,0 +1,79 @@
+8/7/2020: List of all currently found error when hashing texture and their details. Please contact me if you find the solution for any of them so that the pack can be a little more complete !(and maybe...to also regain bits of my sanity I lost to them).
+____________________________________________________________
+[Reminder]
+8 first #: the address
+8 next #: the clut & hash dimension
+8 last #: hash data
+____________________________________________________________
+
+[1] Floor Jump menu - ui_gray close
+00000000088ec40bb7683004 = /UI/ui_gray close.png
+09b624c0088ec40b9d5aa704
+09b50dd0088ec40bb76802a4
+09b4c580088ec40b5993f984
+09b3c590088ec40b73fff524
+Only clut "088ec40b" is the same, but collides with other textures like ui_gray menu & skill
+
+[2] Location box - any main & sub location name like Diet Building, Tokyo City Hall & floors, Entrance etc.
+# Diet Bldg: _ end with "1"?
+000000007f663734d8c1b761
+000000007f6637344d2c5a71
+000000007f663734d88b5be1
+# Tokyo CHall: _ end with "5"?
+09aed2307f663734ea99eae5
+09aee0607f663734ea994715
+09aefed07f663734081984c5
+# Entrance (tokyo):
+09af0e901955f4f18507e7be
+09af0f401955f4f1c8e793cd
+09af10e01955f4f12f11fb25
+# Diet Bldng floors:
+ 1F 09afcdb01955f4f1dc3f5551
+ __ 09b21a601955f4f1853396ad
+ 2F 000000001955f4f1dd75307c
+ 3F 09b353101abae800f940bd14
+ __ 09b378d01abae8006f65a884
+ 8F 09b395501955f4f10d37d4e1
+
+B1F 09b311c01955f4f1d194dac9
+___ 09afbd901955f4f187eff450
+B2F 000000001955f4f1422d54f6
+___ 09afce801955f4f1cf9c8c2c
+B3F 09afcf301955f4f1629d8365
+B4F 09b1a5e01955f4f100d60d74
+B8F 09afc7701955f4f10eafac38
+B10F000000001abae8008f744b9a
+... etc.
+Clut "1955f4f1" applies for most B#F and #F floors; 3F & B10F and maybe other floors has completely different value. no other texture collision.
+
+[3] Start Menu 
+- Sega watermark collides with EXIT
+00000000000004069b2b4f5d = /UI/menu/start/sega c.png
+- Clut "00000407" of other collides with some [TERMINAL] Menu hashes.
+
+[4] Terminal _ all changes for each save
+- Menu:
+# Party
+0000000000000407c0ec2734
+09b019b000000407c0c71e34
+09b1401000000407c0e84994
+Clut "00000407" collides with above Sega texture.
+# Manage
+00000000c0444deb91e1f9a7
+00000000c0444deb91c0d347
+09b32430c0444deb91e3cb37
+Clut "c0444deb" collides with Entry texture in same Menu.
+- in Manage:
+# >>Party member
+00000000000004070d89cfb4
+09b176300000040717750844
+09b5d060000004070d89cfb4
+09b4f4400000040759c5e594
+- in Party:
+0000000062c6cc40412b64f6 = /UI/menu/term/party/XBack.png 
+0000000062c6cc400e8f1919 = /UI/menu/term/party/^Out.png
+Clut hash collides with each other.
+
+
+[5] Clut "00000507" collision _ many textures have this Clut and they can't be hashed like 0x00000507x0 at all while some of them change the 
+

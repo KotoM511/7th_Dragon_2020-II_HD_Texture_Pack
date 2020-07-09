@@ -1,0 +1,24 @@
+00000000000003063a2970c7 = /UI/misc/place/loc box/area.png
+000000007f663734d88b5be1 = /UI/misc/place/loc box/diet bldg 2f.png
+000000007f663734d8c1b761 = /UI/misc/place/loc box/diet bldg b2f.png
+000000007f6637344d2c5a71 = /UI/misc/place/loc box/diet bldg b10f.png
+000000001955f4f1dd75307c = /UI/misc/place/loc box/2f.png
+000000001955f4f1422d54f6 = /UI/misc/place/loc box/b2f.png
+000000001abae8008f744b9a = /UI/misc/place/loc box/b10f.png
+
+
+ 1F 09afcdb01955f4f1dc3f5551
+ __ 09b21a601955f4f1853396ad
+ 2F 000000001955f4f1dd75307c
+ 3F 09b353101abae800f940bd14
+ __ 09b378d01abae8006f65a884
+ 8F 09b395501955f4f10d37d4e1
+
+B1F 09b311c01955f4f1d194dac9
+___ 09afbd901955f4f187eff450
+B2F 000000001955f4f1422d54f6
+___ 09afce801955f4f1cf9c8c2c
+B3F 09afcf301955f4f1629d8365
+B8F 09afc7701955f4f10eafac38
+
+
