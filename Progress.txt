@@ -1,0 +1,36 @@
+01/ GENERAL 100&
+- Font 100%
+- Loading screen 100%
+
+02/ GENERAL UI ~80%
+- Time & currency 100%
+- 
+03/ NUMBERS
+
+04/ CHAPTERS
+- Prologue
+- Chapter 1
+
+05/ MAIN MENU
+06/ PARTY
+07/ TERMINAL
+08/ OPTION 0%
+09/ QUEST OFFICE
+10/ DEV MENU
+11/ JUMP 100% ([x] 1 collision)
+12/ WORLD MAP
+13/ MAP
+14/ SHOP
+15/ BATTLE
+16/ CHARACTER ~90%
+- Player (most used waifu2x)
+  + Full body 100%
+  + Narrow vertical (6/41)
+  + Half: 
+    - Dark overlay (/41)
+	- Creation (/41)
+  + Square (4/41)
+- NPC 98%
+
+17/ TEXTURE
+- miscellaneous
