@@ -4,10 +4,10 @@
 
 02/ GENERAL UI ~80%
 - Time & currency 100%
-- 
+
 03/ NUMBERS
 
-04/ CHAPTERS
+04/ CHAPTERS Introduction text
 - Prologue
 - Chapter 1
 
