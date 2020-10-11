@@ -14,7 +14,7 @@
 05/ MAIN MENU
 06/ PARTY
 07/ TERMINAL
-08/ OPTION 0%
+08/ OPTION 100%
 09/ QUEST OFFICE
 10/ DEV MENU
 11/ JUMP 100% ([x] 1 collision)
@@ -22,15 +22,17 @@
 13/ MAP
 14/ SHOP
 15/ BATTLE
-16/ CHARACTER ~90%
+16/ CREDITS
+17/ CHARACTER ~80%
 - Player (most used waifu2x)
-  + Full body 100%
+  + Full body 100% 
+  PsyM shadow minor fix, HackM
   + Narrow vertical (6/41)
   + Half: 
-    - Dark overlay (/41)
-	- Creation (/41)
-  + Square (4/41)
-- NPC 98%
+    - Wide horiz (19/41)
+	- Creation (41/41)
+  + Square battle (5/41)
+- NPC 98% Daigo& Dave pres
 
-17/ TEXTURE
+18/ TEXTURE
 - miscellaneous
