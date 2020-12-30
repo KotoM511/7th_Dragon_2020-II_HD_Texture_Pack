@@ -10,6 +10,7 @@
 04/ CHAPTERS Introduction text
 - Prologue
 - Chapter 1
+- Chapter 2
 
 05/ MAIN MENU
 06/ PARTY
@@ -18,19 +19,19 @@
 09/ QUEST OFFICE
 10/ DEV MENU
 11/ JUMP 100% ([x] 1 collision)
-12/ WORLD MAP
+12/ WORLD MAP 99%
 13/ MAP
-14/ SHOP
-15/ BATTLE
+14/ SHOP 100% (hash clashed)
+15/ BATTLE 95%
 16/ CREDITS
-17/ CHARACTER ~80%
-- Player (most used waifu2x)
+17/ CHARACTER ~90%
+- Player (most used waifu2x) 100%
   + Full body 100% 
-  + Narrow vertical (23/41)
+  + Narrow vertical (42/42)
   + Half: 
-    - Wide horiz (19/41)
-	- Creation (41/41)
-  + Square battle (5/41)
+    - Wide horiz (42/42)
+	- Creation (42/42)
+  + Square battle (42/42)
 - NPC -98% Daigo& Dave pres
 
 18/ TEXTURE
