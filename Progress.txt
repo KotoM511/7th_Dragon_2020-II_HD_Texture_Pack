@@ -15,6 +15,9 @@
 05/ MAIN MENU
 06/ PARTY
 07/ TERMINAL
+- Entry 100%
+- Party (hash clashed)
+- Manage (hash clashed)
 08/ OPTION 100%
 09/ QUEST OFFICE 100%
 10/ DEV MENU
@@ -29,7 +32,7 @@
   + Full body 100% 
   + Narrow vertical (42/42)
   + Half: 
-    - Wide horiz (42/42)
+    - Wide horiziontal (42/42)
 	- Creation (42/42)
   + Square battle (42/42)
 - NPC -98% Daigo& Dave pres
