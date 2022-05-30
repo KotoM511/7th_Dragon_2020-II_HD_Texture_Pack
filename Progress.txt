@@ -26,6 +26,8 @@
 13/ MAP
 14/ SHOP 100% (hash clashed)
 15/ BATTLE 95%
+- Game over(misc) 100%
+- 
 16/ CREDITS
 17/ CHARACTER ~90%
 - Player (most used waifu2x) 100%
