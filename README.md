@@ -5,12 +5,13 @@ Official PPSSPP site:  https://ppsspp.org/index.html
 
 **:heavy_exclamation_mark: Warning :heavy_exclamation_mark:** 
 ------------|
-| This is only for NPJH50716 + [Cavespeak](https://cavespeak.org)'s eng patch v1.00. <br>Can't guarantee it work in original JP version.</br> |
+| This is only for NPJH50716 + [Cavespeak](https://cavespeak.org)'s Eng patch v1.00. <br>Can't guarantee it work in original JP version.</br> |
 
 ## Description
 This project started on 10/1/2020. It was originally a pack for replacing the character potraits only, but I decided to expand the pack with GUI elements.
-Some texture are upscaled using waifu2x-caffe then manually edit, like portraits. This was created mainly for my personal liking so some elements you might not like, such as the font and the icons(to be updated).
-<br>Progress updates with images are available at [twitter log](https://twitter.com/i/events/1251064594044530693).</br>
+Some texture are upscaled using waifu2x-caffe then manually edit, like portraits. This was created mainly for my personal liking so some elements you might not like, such as the font and the icons.
+
+Progress updates with images are available at [twitter log](https://twitter.com/i/events/1251064594044530693) (cannot update anymore due to Twitter changes around the start of 2023, but still update through normal tweets.).
 Comparisons at the bottom.
 
 **Notice:** `Error hash.txt` List of textures unreplacable due to hash clashing or no defined hash.
@@ -20,10 +21,10 @@ Comparisons at the bottom.
 
 1. Download the repository as .zip then extract contents to `\PPSSPP\PSP\TEXTURES\NPJH50716`. This is the address of the game ID, create the folder if there's none.
 2. Enable *Replace textures* in *Settings > Options > Developer tools*.
-3. All done! You can now play the game with my texture pack. I recommend you map a button for Texture replacement so you can compare the differences in-game, best view on desktop.
+3. All done! You can now play the game with my texture pack. I recommend you map a button for *Texture replacement* so you can compare the differences in-game, best view on desktop.
 
 ### Contact
-`If you want to take part in this project or have a suggestion, feel free to leave a message with [7D2020IITxtPk] at the start.`
+`If you want to take part in this project or have a suggestion, feel free to leave a message with [7D2020II Texture] at the start.`
 <br>Twitter: **[ko_myth](https://twitter.com/ko_myth)**
 <br>Discord: KotoM#4586</br>
 
