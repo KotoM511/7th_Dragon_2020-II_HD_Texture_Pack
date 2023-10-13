@@ -19,7 +19,7 @@ Image comparisons at the bottom.
 ## How to install
 `Best use with PPSSPP ver. 1.15 and above, Pause > Display layout & effects > Post Processing Shader > Supersampling AA (Gauss).`
 
-1. Download the repository as .zip then extract contents to `\PPSSPP\PSP\TEXTURES\NPJH50716`. This is the address of the game ID, create the folder if there's none.
+1. Download the repository as .zip then extract contents to `\PPSSPP\PSP\TEXTURES\NPJH50716` or `\PPSSPP\memstick\PSP\TEXTURES\NPJH50716`(PPSSPP portable). This is the address of the game ID, create the folder if there's none.
 2. Enable *Replace textures* in *Game settings > Tools > Developer tools* and scroll down to see the option.
 3. All done! You can now play the game with my texture pack. I recommend you map a button for *Texture replacement* so you can compare the differences in-game, best view on desktop.
 
