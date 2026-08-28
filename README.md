@@ -5,16 +5,18 @@ Official PPSSPP site:  https://ppsspp.org
 
 **:heavy_exclamation_mark: Warning :heavy_exclamation_mark:** 
 |------------|
-| This is only for NPJH50716 + [Cavespeak](https://cavespeak.org)'s Eng patch v1.00. <br>Can't guarantee it work in original JP version.</br> |
+| This is only for NPJH50716 + [Cavespeak](https://cavespeak.org)'s Eng patch v1.00. <br>Can't guarantee it works in original JP version.</br> |
 
 ## Description
 This project started on 10/1/2020. It was originally a private pack for replacing the character portraits only, but I decided to expand the pack with UI elements and more for public.
 Only a few texture are upscaled using waifu2x-caffe then manually edit, like portraits. 
 
-Progress updates with images are available at [twitter log](https://twitter.com/i/events/1251064594044530693) (can't update due to Twitter changes at the start of 2023, but still update through normal tweets.).
+Progress updates with images are available at [twitter log](https://twitter.com/i/events/1251064594044530693) (can't update due to Twitter changes at the start of 2023, but still update through normal tweets).
 Image comparisons at the bottom.
 
-**Notice:** `Error hash.txt` List of textures unreplacable due to hash clashing or no defined hash.
+**Notice:** `Error hash.txt` List of textures unreplacable due to hash clashing or no defined hash. 
+
+*(Updates are super slow now, I'm sorry!!! I'm trying to replace the new font by this year 2026!)*
 
 ## How to install
 `Best use with PPSSPP ver. 1.15 and above, Pause > Display layout & effects > Post Processing Shader > Supersampling AA (Gauss).`
